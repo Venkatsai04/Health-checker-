@@ -1,0 +1,24 @@
+Instructions
+
+
+Please complete the following assignment. 
+You can share your assignment on e-mail at jobs@unusualdigital.com
+
+
+
+Internship Assignment
+
+Create a simple html form using javascript, css, html
+
+Form should have the following fields
+1. Name
+2. Age
+3. Weight
+4. Email Id
+5. Upload Health Report (use a sample pdf file)
+6. Submit Button 
+
+
+Also write a simple php-mysql code to insert user details and pdf file into the database. 
+Write a second php code to fetch user health report(pdf file) on the basis of email id.
+
